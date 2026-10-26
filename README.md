@@ -10,7 +10,7 @@ I am a 3rd year Computer Science undergraduate at the University of Florida with
 **Tools:** VSCode, Git, RStudio
 
 ## Reach me
-📫 hp.johns@ufl.edu
+📫 hannahpjohns2025@gmail.com
 
 
 <!--
