@@ -1,6 +1,6 @@
 ## Hey, I'm Hannah 👋
 
-I am a 3rd year Computer Science undergraduate at the University of Florida with a background in psychology research! Invested in building tools that sit at the intersection.
+I am a 3rd year Computer Science undergraduate at the University of Florida with a background in psychology research! Interested in building tools that sit at the intersection.
 
 🔭 **Currently building:** 
 🌱 **Currently learning:**
