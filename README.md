@@ -2,15 +2,12 @@
 
 I am a 3rd year Computer Science undergraduate at the University of Florida with a background in psychology research! Interested in building tools that sit at the intersection.
 
-🔭 **Currently building:** <br>
-🌱 **Currently learning:** <br>
-
 ## Tech
 **Languages:** C++, Python, R <br>
 **Tools:** VSCode, Git, RStudio <br>
 
 ## Reach me
-📫 hannahpjohns2025@gmail.com
+📫 hannahpjohns2024@gmail.com
 
 
 <!--
